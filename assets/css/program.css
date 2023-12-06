@@ -1,0 +1,39 @@
+body {
+  background-color: #1e1e1e;
+  font-family: "Poppins", sans-serif;
+  min-height: 2000px;
+}
+
+/*  */
+#program h2 {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FAFAFA;
+
+}
+
+.col {
+  color: #fff;
+  gap: 40px;
+  margin-top: 120px;
+}
+
+.card {
+  background-color: #1e1e1e;
+  display: inline-block;
+  box-shadow: 0px 6px 24px rgba(24, 119, 242, 0.15);
+  height: 100%;
+}
+
+.card:hover {
+  box-shadow: 0px 16px 32px rgba(24, 119, 242, 0.25);
+  background: #0f0f0f;
+}
+
+
+.card-img {
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+}

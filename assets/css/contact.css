@@ -1,0 +1,139 @@
+
+body {
+    font-family: 'Poppins', sans-serif; 
+    /* background-color: var(--pr-color); */
+}
+
+
+/* .nav-link {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;  
+}
+
+.nav-link.active {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;  
+} */
+
+#Kontak {
+    background-image: url(../img/imgcontact.png);
+    /* margin-top: 150px; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* #Kontak .overlay {
+    background: #1E1E1E;
+    opacity: 0.75;
+} */
+
+#Kontak .container {
+    padding: 150px 0 150px 0;
+}
+
+#Kontak h3 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    color: #FFFFFF;
+    width: 498px;
+}
+
+#Kontak h6 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    margin: 19px 0 19px 0;
+}
+
+.kontak a {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 18px;
+    width: 430px;
+    display: inline-block;
+}
+
+.sosmedyteam {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 36px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.card-contact {
+    width: 100%;
+    height: 495px;
+    background: #0F0F0F;
+    border-radius: 12px;
+    padding: 59px 50px;
+}
+
+.card-contact h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #D68205;
+    margin-bottom: 40px;
+}
+
+.form-control {
+    height: 70px !important;
+    border: 1px solid #1E1E1E;
+    border-radius: 8px;
+}
+
+.form-floating label {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #1E1E1E;
+}
+
+.button-kontak {
+    width: 100%;
+    height: 55px;
+    background: #D68205;
+    border-radius: 8px;
+    border: none;
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+}
+
+/* footer {
+    width: 100%;
+    height: 200px;
+    background: #0F0F0F;
+}
+
+.copyright {
+    bottom: 1%;
+    color: #FFFFFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.copyright a{
+   font-weight: 700; 
+} */
